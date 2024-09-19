@@ -5,7 +5,7 @@
 ### 2. Tensorflow
 - **2.1 Basics**
   - None
-### 3. Artificial Neural Networks (ANN)
+### 3. Artificial Neural Networks (ANNs)
 - **3.1 Basics**
   - None
 ### 4. Recurrent Neural Networks (RNNs)
@@ -13,7 +13,7 @@
   - None
 - **4.2 Gated Recurrent Unit (GRU)**
   - None
-### 5. Convolution Neural Networks (CNNs)
+### 5. Convolutional Neural Networks (CNNs)
 - **5.1 Basics**
   - None
 
