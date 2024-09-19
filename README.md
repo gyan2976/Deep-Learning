@@ -5,18 +5,15 @@
 ### 2. Tensorflow
 - **2.1 Basics**
   - None
-### 3. Perceptron
+### 3. Artificial Neural Networks (ANN)
 - **3.1 Basics**
   - None
-### 4. Artificial Neural Networks (ANN)
-- **4.1 Basics**
+### 4. Recurrent Neural Networks (RNNs)
+- **4.1 Long-Short Term Memory (LSTM)**
   - None
-### 5. Recurrent Neural Networks (RNNs)
-- **5.1 Long-Short Term Memory (LSTM)**
+- **4.2 Gated Recurrent Unit (GRU)**
   - None
-- **5.2 Gated Recurrent Unit (GRU)**
-  - None
-### 6. Convolution Neural Networks (CNNs)
-- **6.1 Basics**
+### 5. Convolution Neural Networks (CNNs)
+- **5.1 Basics**
   - None
 
