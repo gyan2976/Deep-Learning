@@ -1,7 +1,11 @@
 # Deep-Learning
 ### 1. PyTorch
-- **1.1 Basics**
-  - None
+- **1.1 Basics of PyTorch and Tensors**
+- **1.2 Autograd and Backpropagation**
+- **1.3 Neural Network Building Blocks**
+- **1.4 Loss Functions and Optimizers**
+- **1.5 Training Neural Networks**
+- **1.6 Data Loading and Preprocessing**
 ### 2. Tensorflow
 - **2.1 Basics**
   - None
