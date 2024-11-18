@@ -8,8 +8,8 @@
   - None
 ### 3. Artificial Neural Networks (ANNs)
 - **3.1 Neural Networks**
-- **3.1 Neural Networks (Multilayers)**
-- **3.1 Neural Networks (PyTorch)**
+- **3.2 Neural Networks (Multilayers)**
+- **3.3 Neural Networks (PyTorch)**
 ### 4. Recurrent Neural Networks (RNNs)
 - **4.1 Long-Short Term Memory (LSTM)**
   - None
