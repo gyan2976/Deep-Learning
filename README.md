@@ -17,7 +17,7 @@
 - **4.2 Bidirectional Long-Short Term Memory (BiLSTM)**
 - **4.3 Gated Recurrent Unit (GRU)**
 ### 5. Convolutional Neural Networks (CNNs)
-- **5.1 Basic CNN Code**
+- **5.1 CNN**
 - **5.2 VGG16**
 - **5.3 Resnet50**
 
