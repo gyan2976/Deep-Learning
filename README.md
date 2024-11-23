@@ -13,11 +13,12 @@
 - **3.4 Neural Networks (Multilayers)**
 - **3.5 Neural Networks (PyTorch)**
 ### 4. Recurrent Neural Networks (RNNs)
-- **4.1 Long-Short Term Memory (LSTM)**
-- **4.2 Bidirectional Long-Short Term Memory (BiLSTM)**
-- **4.3 Gated Recurrent Unit (GRU)**
+- **4.1 RNN (PyTorch)**
+- **4.2 Long-Short Term Memory (LSTM)**
+- **4.3 Bidirectional Long-Short Term Memory (BiLSTM)**
+- **4.4 Gated Recurrent Unit (GRU)**
 ### 5. Convolutional Neural Networks (CNNs)
-- **5.1 CNN**
+- **5.1 CNN (PyTorch)**
 - **5.2 VGG16**
 - **5.3 Resnet50**
 
